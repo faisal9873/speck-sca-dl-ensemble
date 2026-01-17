@@ -14,7 +14,7 @@
 #SBATCH --cpus-per-task=30
 #SBATCH --partition=nvidia
 #SBATCH --gres=gpu:1
-#SBATCH --constraint=jubail
+#SBATCH --constraint=hpcwhite
 
 # ==============================
 # Environment setup
