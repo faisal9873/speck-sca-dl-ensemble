@@ -21,7 +21,7 @@
 # ==============================
 
 # Load Conda (cluster-specific)
-source /share/apps/BYUAD5/miniconda/3-4.11.0/bin/activate
+source /share/apps/XYORG/miniconda/3-4.11.0/bin/activate
 
 conda activate tf-ensemble
 
