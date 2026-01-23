@@ -6,11 +6,13 @@ Deep learning ensemble–based profiling side-channel analysis of the SPECK ligh
 
 ## Overview
 
-Deep learning–based profiling side-channel analysis (SCA) has shown strong performance against classical symmetric ciphers such as AES. However, its application to **lightweight cryptographic primitives** remains largely unexplored.
-
-This repository presents a **deep learning ensemble–based profiling attack on the SPECK-32/64 cipher**, a lightweight block cipher designed for resource-constrained devices and widely used in IoT systems. The proposed approach employs a **sequential divide-and-conquer ensemble of deep learning models** to recover the full **8-byte secret key** from both **unprotected and protected (masked) software implementations** of SPECK, using fewer than **250 traces**.
+This repository presents a **deep learning ensemble–based profiling attack on the SPECK-32/64 cipher**, a lightweight block cipher designed for resource-constrained devices and widely used in IoT systems. 
 
 To the best of our knowledge, this is the **first deep learning–based profiling attack** targeting both unprotected and protected implementations of SPECK.
+
+Link to Paper: https://www.nature.com/articles/s41598-025-08888-1
+
+Authors: Faisal Hameed (New York University, US), Hoda Alkhzaimi (New York University)
 
 ---
 
