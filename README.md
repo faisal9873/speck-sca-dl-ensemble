@@ -24,11 +24,18 @@ Authors: Faisal Hameed (New York University, USA), Hoda Alkhzaimi (New York Univ
 
 ### SPECK Protected Key
 
+
+## Key Contributions
+
+-- Profiling side-channel attack on SPECK-32/64 using deep learning
+-- Ensemble learning to improve robustness and trace efficiency
+-- Sequential divide-and-conquer key recovery strategy
+-- Successful key recovery with <250 traces
+-- Evaluation on both unprotected and masked implementations
+
 ## Repository Structure
 
 ```text
 src/        # Datasets, models, ensembles, and SCA metrics
 scripts/    # Linux / HPC execution scripts
 data/       # SPECK side-channel datasets (HDF5)
-results/    # Representative outputs and example metrics
-notebooks/  # Analysis and visualization
