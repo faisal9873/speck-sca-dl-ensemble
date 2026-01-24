@@ -27,11 +27,11 @@ Authors: Faisal Hameed (New York University, USA), Hoda Alkhzaimi (New York Univ
 
 ## Key Contributions
 
--- Profiling side-channel attack on SPECK-32/64 using deep learning
--- Ensemble learning to improve robustness and trace efficiency
--- Sequential divide-and-conquer key recovery strategy
--- Successful key recovery with <250 traces
--- Evaluation on both unprotected and masked implementations
+- Profiling side-channel attack on SPECK-32/64 using deep learning
+- Ensemble learning to improve robustness and trace efficiency
+- Sequential divide-and-conquer key recovery strategy
+- Successful key recovery with <250 traces
+- Evaluation on both unprotected and masked implementations
 
 ## Repository Structure
 
