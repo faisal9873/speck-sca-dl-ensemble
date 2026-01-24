@@ -12,25 +12,17 @@ To the best of our knowledge, this is the **first deep learning–based profilin
 
 Link to Paper: https://www.nature.com/articles/s41598-025-08888-1
 
-Authors: Faisal Hameed (New York University, US), Hoda Alkhzaimi (New York University)
+Authors: Faisal Hameed (New York University, USA), Hoda Alkhzaimi (New York University, USA)
 
 ---
 
-## Key Contributions
+## Datasets
 
-- Profiling side-channel attack on **SPECK-32/64** using deep learning
-- **Ensemble learning** to improve robustness and trace efficiency
-- Sequential divide-and-conquer key recovery strategy
-- Successful key recovery with <250 traces
-- Evaluation on both unprotected and masked implementations
+### SPECK Fixed Key
 
----
+### SPECK Variable Key
 
-## Project Focus
-
-This project emphasizes **hyperparameter exploration and ensemble behavior** rather than fixed model configurations. Results are therefore analyzed in terms of **attack efficiency, convergence, and stability** under constrained trace budgets.
-
----
+### SPECK Protected Key
 
 ## Repository Structure
 
