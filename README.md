@@ -19,12 +19,10 @@ Authors: Faisal Hameed (New York University, USA), Hoda Alkhzaimi (New York Univ
 ## Datasets
 
 ### SPECK Fixed Key
-SPECK fixed key dataset can be downloaded from: 
--- https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
+SPECK fixed key dataset can be downloaded from: https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
 
 ### SPECK Variable Key
-SPECK variable key dataset can be downloaded from: 
--- https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
+SPECK variable key dataset can be downloaded from: https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
 
 ### SPECK Protected Key
 
