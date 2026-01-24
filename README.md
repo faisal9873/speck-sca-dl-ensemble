@@ -19,8 +19,10 @@ Authors: Faisal Hameed (New York University, USA), Hoda Alkhzaimi (New York Univ
 ## Datasets
 
 ### SPECK Fixed Key
+https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
 
 ### SPECK Variable Key
+https://drive.google.com/drive/u/0/folders/1lThguC0yXA4rTiKoHtvyit8KPW3aWF1n
 
 ### SPECK Protected Key
 
